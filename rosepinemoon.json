@@ -1,10 +1,10 @@
 {
-    "name": "Rose Pine moon",
-    "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+    "name": "Rose Pine modif par mpoi",
+    "description": "si sa marche c incr",
     "authors": [
         {
-            "name": "Moodle",
-            "id": "807170846497570848"
+            "name": "Nioko",
+            "id": "155791852"
         }
     ],
     "semanticColors": {
@@ -244,6 +244,10 @@
         "WHITE": "#e0def4",
         "WHITE_500": "#e0def4",
         "WHITE_630": "#908caa"
+    },
+    "background": {
+        "alpha": 5,
+        "url": "https://assets.pinterest.com/ext/embed.html?id=985231163790082"
     },
     "plus": {
         "version": "0",
